@@ -1,4 +1,4 @@
-# -PythonRed wine quality
+# Red Wine Quality
  Python-red wine quality analysis
 
 I made the project using classification and regression algorithms.
